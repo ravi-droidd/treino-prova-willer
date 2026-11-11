@@ -67,21 +67,21 @@ insert into aeronaves(modelo, codigo_cauda, capacidade) VALUES
 
 
 insert into pilotos (nome, codigo_anac, horas_voo) VALUES
-('Ricrado Mendes', '112233', '120'),
-('Paulo Antunes', '222333', '40'),
-('Cláudio Ribeiro', '445566', '20'),
+('Eduardo Vieira', '112233', '120'),
+('Ravi Gomes', '222333', '40'),
+('Jose Augusto', '445566', '20'),
 ('Willer Barros', '555666', '0'),
-('Antônio Fagundes', '778899', '125')
+('Pedro Souza', '778899', '125')
 
 
 
 
 insert into passageiros (nome, cpf, email) VALUES
-('Ângela Ferreira', '11111111111', 'angela.ferreira@gmail.com'),
-('Otávio Tavares', '22222222222', 'otavio.tavares@gmail.com'),
-('Caetano Veloso', '33333333333', 'caetano.veloso@gmail.com'),
-('Gustavo Lima', '44444444444', 'gustavo.lima@gmail.com'),
-('Claudia Leite', '55555555555', 'claudia.leite@gmail.com')
+('Bruno Wick', '11111111111', 'angela.ferreira@gmail.com'),
+('Arthur Tavares', '22222222222', 'otavio.tavares@gmail.com'),
+('Eduardo Miranda', '33333333333', 'caetano.veloso@gmail.com'),
+('Gabriel Pereira', '44444444444', 'gustavo.lima@gmail.com'),
+('Joaquin Mario', '55555555555', 'claudia.leite@gmail.com')
 
 
 
